@@ -1,0 +1,118 @@
+---
+title: "Course"
+
+Output: pdf_document
+  
+site: distill:distill_website
+
+
+
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+
+
+
+The Master in Buddhist Studies and Sustainable Development (MBSSD) degree program will demonstrate a sound understanding on Buddhist Philosophy which is endowed with the practical acuity to analyse development issues of our society and thereby reach out to the solutions in a peaceful, non-violent and sustainable way. As a program of Faculty of Buddhist Studies, Lumbini Buddhist University, this course of study is focused largely on the social science and humanity perspective as a disciplinary notion, though it has also derived different concepts and ideas of sustainable development from natural and applied sciences.  This program includes 16 regular courses (100 marks/ 3 Credit hour each) including a compulsory Thesis. Eight elective courses have been planned (two electives in each semester). Student will select one elective subject in each semester.
+
+
+# Program Synopsis 
+
+**Course title**: Master in Buddhist Studies and Sustainable Development (<span style="color: blue;">MBSSD</span>).
+
+**Course duration and total credit**: The duration of the course is two years comprising two semesters in each year and four semesters in total. The total credit hours for the course will be 60 (15 credits allocated in each semester, i.e. 15x4=60, in total).
+
+**Entry requirements for admission**: The minimum requirement to apply for admission in the Program is completion of a Bachelor’s degree in applied/social/natural sciences from a recognized University of Nepal or abroad.
+
+# Learning Objectives 
+
+The core objective of the MBSSD courses of study is to cater a multiplicity of Buddhist perspectives on development (its theories, practices and policies), and thereby offer the ways of sustainability for inner peace and happiness in the world. In specific, this program has been designed with the following learning objectives: 
+
+ -	To gain a higher and intuitive understanding of philosophical idea of Buddhism and its practical ways in analysing development issues of our society, and thus become capable of finding and executing solutions in a peaceful, non-violent and sustainable way.
+ -	To inculcate and demonstrate knowledge and understanding in their major areas of study, including the insights into current research and development works
+ 
+ 
+# Learning Outcomes and Competencies 
+
+Upon completion of the MBSSD courses of study, students must be able to: 
+- demonstrate an ability to critically and systematically conceptualize and analyse the issues and ideas of development from Buddhist perspective of view, meditation and conduct.
+- become a dedicated learner of Buddhist practice of meditation following the ethical values and the Sīlas of the Buddhist teachings
+- identify the challenges and opportunities of sustainability of development works, human integrity and peaceful life considering the present needs without compromising the needs and aspirations of future generations;
+- exhibit an ability to critically, independently and creatively identify and formulate issues of sustainability and to plan and manage the diversities and complexities using appropriate methods including selfless leadership; 
+- show an ability to present and discuss their conclusion and the knowledge and arguments behind them in good dialogue with different groups, orally and in writing, in national and international contexts
+
+# Approaches and Strategies to the Courses of Study
+
+- The Buddhist Philosophy (based on right view, right meditation and right conduct) and sustainability approach (including ecological, social and economic issues, and the art and science of sukha) will be taken into academic discourse and class-room sessions. 
+- Both faculty members and students will commit to observe Pañcaśīla (five precepts) every day, and each class will initiate with a mandatory meditation session.
+- A peer review research journal will be published by the SKB annually to promote Buddhist philosophy, principles, practices and sustainable development and to disseminate related scientific knowledge to the potential audience widely. 
+- The Buddhist philosophy, precepts and practices (3-Ps) is a cross-cutting issue in order to transform the learning motivation of the students and teachers towards sustainable development and lasting inner peace, prosperity and contentment in the society. 
+- The development process and products cannot be sustainable unless they are culturally rooted in the heads, hearts and hands of the students, teachers and local people. The Buddhist teachings constitute the original ideology and civilization of Nepal, and it has the capacity and potential to drive the society in the right path sustainably.
+- Sulakshan Kirti Bihar (SKB) will create a conducive environment for the carrying out of teaching, learning and innovative research activities by the students and teachers. The Bihar will organize orientation programmes for teachers and students about Buddhist teachings and their significance in the teaching and learning process to capture the core spirit of the courses of study. The LBU will offer support to encourage the teachers, students and the management team to unfailingly adopt the Buddhist and SD principles and practices in their day-to-day life. 
+
+## Syllabus Outline
+
+# Year I; Semester  I
+A)  Compulsary Courses
+  
+  - [Introduction to Buddhist Philosophy](https:\\www.facebook.com)   
+  - [Foundation of Development](https:\\www.linkedin.com)
+  - Sustainability study
+  - Ecology, environment and sustainable development 
+            
+ B)  Elective Courses - I
+  - Governance and development 
+  - Project design and management
+            
+
+# Year I; Semester  II     
+C)  Compulsary Courses
+  - Abhidharma and  Psychology 
+  - Sustainable pathways of development
+  - Buddhist Meditation
+  - Narratives of development in Nepal
+         
+D)  Elective Courses - II
+  - Sustaining peace and social transformation
+  - Sustainable livelihood and entrepreneurship development
+            
+# Year II; Semester I
+E)  Compulsary Courses
+  - Non-violent communication and spiritual counselling
+  - Community Development: Principles and Practices     
+  - Research Methodology 
+  - Disaster risk reduction: Strategies and practices 
+ 
+F)  Elective Courses - III
+  - Tools on Monitoring and Evaluation (M&E)
+  - Child care and social gerontology 
+          
+#  Year II; Semester II
+G)  Compulsary Courses
+  - Buddhism, society and selfless-leadership 
+  - Policy and planning in development
+  - Population, migration and remittance  
+  - Thesis 
+
+H)  Elective Courses - IV
+  - Hospitality and Tourism development 
+  - Social and environmental safeguards
+          
+#  Strategies for practicum
+
+The course of study will entail 40 percent practical (as to be covered by internal evaluation, and the thesis work) and 60 percent theoretical (covered by external evaluation) sessions in order to enrich the quality of education focusing to engaged research works, and the sustainable ways of livelihood and entrepreneurship. The total course of study has been divided into three categories of practicum that include: 
+
+- Regular practicum or assignments module—to be defined in each chapter of the each subjects with specific methods
+-	End-semester practicum---to be defined in each subject with specific methods including a project work, community service and academic writing (term paper or report writing)
+- End-course practicum, including a Thesis for each student to be graduated (mandatory) 
+

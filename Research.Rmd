@@ -1,0 +1,28 @@
+
+
+---
+title: "Research"
+
+Output: 
+  html_document:
+    number_sections: no
+    toc: yes
+    toc_depth: 2
+fontsize: 12pt
+  
+site: distill:distill_website
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+
+Research information regarding Sulakshan Kirti Campus
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```

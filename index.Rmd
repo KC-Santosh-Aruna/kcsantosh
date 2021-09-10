@@ -1,0 +1,41 @@
+---
+title: "Sulakshan Kirti Campus"
+
+Output: pdf_document
+  
+site: distill:distill_website
+
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+Looking according to the various pedagogue of Buddhist epistemology; environmental sustainable peace; development, social, political and economic studies; subject directly or indirectly related to human; the university level studies in disciplines and the academic body conducting the research was established as Sulakshan Kirti Campus (SKC). 
+
+The formation and operation of SKC was the thought of Mr Rishiram Sharma and the initiative of ven. Dr Anuja Gurama, later the agreement of educational cooperation was signed between Sulakshan Kirit Bihar and Lumbini Buddhist University dated 9 March, 2021 to establish SKC as a non-profit community-social partnership model driven by people and participation. SKC will be operated, managed and supervised according to the legal and policy provisions prepared by the Sulakshan Kirti Campus Management Committee following the provisions of Lumbini Buddhist University Act, University Grants Commission Act and community campus establishment of Nepal Public Campus Association.
+
+
+![](Bihar.png){width=20}
+In collaboration and partnership with the concerned stakeholders, the educational and research services and programs of the campus will be expanded to various target locations in the Kathmandu Valley.
+
+In order to support all of us individuals, families, communities and nations to achieve the common goal of lasting peace, good governance, justice and development, including material, economic, social, political and spiritual happiness, happiness and prosperity. With the mission of becoming a strong and model academic body capable of providing competent, quality, sustainable, responsible, good, efficient and dynamic leadership.
+
+Education based on Buddhism, philosophy, epistemology, meditation and moral values, entrepreneurship, meaningful sustainability with physical and mental health, equality, freedom, equality, unity, prosperity, happiness, positive thinking, attitude and behavior through ability and skill. To contribute to the establishment of human way of life and civilization including peace, good governance, justice and development.
+
+
+
+
+
+
