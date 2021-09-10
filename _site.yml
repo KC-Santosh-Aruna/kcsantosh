@@ -6,7 +6,7 @@ description: |
 output_dir: "_site"
 navbar:
   logo:
-      image: bird.gif
+      image: skclogo.png
       href: "logo.html"
   right:
     - text: "About Us"
